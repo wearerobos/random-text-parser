@@ -1,6 +1,6 @@
 {
   "name": "random-text-parser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generate random text by randomizing sentences between parenthesis separated by pipe",
   "author": "ROBOS.im",
   "repository": "https://github.com/wearerobos/random-text-parser.git",

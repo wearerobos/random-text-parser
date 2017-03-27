@@ -8,13 +8,13 @@ Generate random text by randomizing sentences between parenthesis separated by p
 
 Returns random sentence:
 > I don't mind if you do this (bacause it may hurt me)
-
+>
 > I do mind if you do this (bacause it may hurt me)
-
+>
 > I really mind if you do this (even if it hurts me)
-
+>
 > I really mind if you do this (even if it hurts me)
-
+>
 > ...
 
 ## Usage

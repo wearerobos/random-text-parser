@@ -23,7 +23,10 @@ Just create your text with the random part between (parenthesis) and separated b
 
 You may even have nested "random objects".
 
-`randomTextParser("I ((don't|do|really) mind|will (kill|hug|look for) you)|make you mine) if you do this.")`
+```
+const randomTextParser = require('random-text-parser');
+randomTextParser("I ((don't|do|really) mind|will (kill|hug|look for) you)|make you mine) if you do this.")
+```
 
 ## Contributing
 Hope you enjoy this and contribute!

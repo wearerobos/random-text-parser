@@ -1,0 +1,30 @@
+{
+  "name": "random-text-parser",
+  "version": "0.0.1",
+  "description": "Generate random text by randomizing sentences between parenthesis splitten by pipe",
+  "author": "ROBOS.im",
+  "repository": "https://github.com/wearerobos/random-text-parser.git",
+  "keywords": [
+    "random text",
+    "parser",
+    "generator",
+    "random"
+  ],
+  "bugs": {
+    "url": "https://github.com/wearerobos/random-text-parser/issues"
+  },
+  "contributors": [
+    "Juliano Penna <julianopenna@gmail.com>",
+    "Rafael Amorim <contato@rafaelamorim.com>"
+  ],
+  "main": "./index.js",
+  "scripts": {
+    "test": "mocha *.tests.js",
+    "test-watch": "mocha --watch *.tests.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
